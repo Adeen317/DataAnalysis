@@ -25,5 +25,12 @@ To access all files click the header below:
 ###### >Consists of normalization techniques (Simple Feature Scaling, Min Max Value & Z-score Value) of the data.
 ###### >Plots histogram after binning data in a column.
 
+##### Part 2
+- [Part 2](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Analysis%20wth%20Python/Categorized%20Dataset%20of%20Car%20Price/Data_Analyst3.py)
+###### >Check and converts neccessary datatypes accordingly. 
+###### >This part shows the boxplot, scatterplot, jointplot, regression plot between the two columns.
+###### It also provides heatmap of combination of multiple columns.
+###### >It consists of method to find correlation, Pearson correlaton(P-value) & Chi Square Value.
+
 ## TOOLCHAIN:
 - [Python idle 3.8](https://www.python.org/downloads/release/python-3810/)
