@@ -35,13 +35,22 @@ To access all files click the header below:
 
 ##### Part 3
 - [Part 3](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Analysis%20wth%20Python/Categorized%20Dataset%20of%20Car%20Price/Data_Analyst4.py)
-###### Steps To Get Prediction.
+###### Steps To Get Prediction:
 ###### >This part shows the residual plot, distribution plot, regression plot between the two columns.
 ###### >It performs linear and multiple linear regression.
 ###### >It performs polynomial regression with more than one dimension.
 ###### >It normalizes data.
 ###### >It pipelines normalizing, polynomial transform and linear regression.
 ###### >It also provides methods to find mean square error(MSE) and R-Square Value.
+
+##### Part 4
+- [Part 4](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Analysis%20wth%20Python/Categorized%20Dataset%20of%20Car%20Price/Data_Analyst5.py)
+###### >This part splits the dataset for training and testing and cross validation is applied to obtain test and predicted value.
+###### >It performs linear and multiple linear regression.
+###### >It performs polynomial transform of multiple order on testing and training data.
+###### >It also performs ridge regression between two components.
+###### >It performs grid search according to the parameters and ridge model assigned.
+###### >It also provides methods to find R-Square Value.
 
 ## TOOLCHAIN:
 - [Python idle 3.8](https://www.python.org/downloads/release/python-3810/)
