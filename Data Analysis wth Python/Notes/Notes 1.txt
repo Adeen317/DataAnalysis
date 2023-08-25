@@ -1,0 +1,41 @@
+Scietific Libraries Python:
+1. Pandas (DataFrames)
+
+importing
+pd.read_csv(url)
+pd.read_json()
+pd.read_excel()
+pd.read_sql()
+
+exporting
+df.to_csv(path)
+df.to_json()
+df.to_excel()
+df.to_sql()
+
+data types
+1. df.dtypes
+
+Statistical Summary
+df.describe()
+
+Full Statistical Summary
+df.describe(include="all")
+
+Concise Statistical Summary
+df.info()
+
+df.head(n) to show the first n rows of the data.
+df.tail(n) to show the last n rows of the data.
+df.columns= headers  to replace default header
+
+2. Numpy (arrays or matrices)
+3. Scipy (intergral,diff eq, optimization)
+
+Visualization Libraries:
+1. Matplotlib (plot and graphs)
+2. Seaborn (heat maps,time series, violin plots)
+
+Algorithmic Libraries:
+1. Scikit-Learn (regression, classification, clustering .... DWDM methods)
+2. Statsmodel (explore data,Estimate statistical models, and perform statistical tests)  

@@ -1,0 +1,16 @@
+#Data Preprocessing( Data Cleaning, Data Wrangling,....)
+
+#Correlation - Statistics
+
+Correlation coefficient
+1. For the correlation coefficient, a value close to 1 implies a large positive correlation,
+2. A value close to negative 1 implies a large negative correlation,
+3. A value close to zero implies no correlation between the variables.
+
+P-value
+The P-value will tell us how certain we are about the correlation that we calculated.
+1. For the P-value, a value less than.001 gives us a strong certainty about the correlation coefficient that we calculated.
+2. A value between.001 and.05 gives us moderate certainty.
+3. A value between.05 and.1 will give us a weak certainty. And a P-value larger than 0.1 will give us no certainty of correlation at all.
+
+"We can say that there is a strong correlation when the correlation coefficient is close to 1 or negative 1, and the P-value is less than.001."
