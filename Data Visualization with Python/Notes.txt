@@ -1,0 +1,95 @@
+Visualization:
+Visualization enables us to communicate insights and findings to stakeholders in a more compelling and understandable way. 
+It allows us to tell a story with data, making it easier for stakeholders to understand and act on the information presented. 
+Visualization helps us identify trends and data patterns that might otherwise be difficult to see. 
+We can gain new insights and make informed decisions by examining data over time or across different dimensions. 
+Presenting data in a more easily understood and interpreted way enables us to identify opportunities, spot potential problems, 
+and make more informed choices. 
+
+Line Chart shows trends of the variable.
+
+Bar Chart
+Bar Chart is used for comparising values.
+a bar chart is a type of plot where the length of each bar is proportional to the value of the item that it represents.
+You can create a bar chart using Matplotlib representing the total immigration from Iceland to Canada.
+
+Scatter plot
+a scatter plot displays values pertaining to typically two variables against each other.
+The process of creating a scatter plot involves importing matplotlib to visualize a large set of data.
+Scatter plot is used to explain relationship b/w two continous variables. Explore complex data, detect outliers.
+
+Box Plot
+box plot visualize summary statistics. Identify outliers.
+a box plot is a way of statistically representing given data distribution through five main dimensions. 
+The five main dimensions are minimum, first quartile, median, third quartile and maximum.
+You can create a box plot using Matplotlib.
+Pie chart
+A pie chart is a circular statistical graphic divided into segments to illustrate numerical proportion. 
+The process of creating a pie chart involves involves importing Matplotlib to represent a large set of data over a period of time.
+ 
+Histogram
+Histogram graphical representation of dataset distribution. Represents data count in each interval(Frequency). 
+Partitions numeric data into bins. Count the no of data points.
+a histogram is a way of representing the frequency distribution of a numeric data set. 
+To generate a histogram on Matplotlib, you import Matplotlib as mpl and its scripting interface is plt. 
+You can call the plot function on the data frame with kind parameter assigned as hist. 
+You can use the NumPy library to create bins for the histogram representation.
+
+
+Plot libraries:
+Matplotlib
+pandas
+seaborn
+folium (for geospatial data visuaization) builds interactive and customizable maps.
+Plotly(create every plots in a dashboard.
+Pywaffle(used to generate waffle/donut charts etc).
+
+Matplotlib
+backend layer
+artist layer
+scripting layer
+
+Waffle Chart
+Waffle charts are a visualization technique that represent categorical data in the form of square tiles or cells. These resemble a grid of equal-sized squares, with each square representing a specific value or category. 
+The size or color of the squares indicate the magnitude or proportion of each category.
+Waffle charts effectively show the proportion or percentage of different categories within an overall composition. The grid-like structure of waffle charts makes it easy to understand and interpret data even for nontechnical audiences.
+You can use waffle charts for market share analysis, 
+demographic representation, 
+project progress tracking, 
+budget allocation, 
+survey responses,
+election results, and 
+product sales analysis.
+
+Word Cloud
+the areas in which we can employ word cloud.
+These include social media analysis, 
+customer feedback analysis, 
+content analysis, market research, 
+resume or job description analysis.
+
+matplotlib.backend_bases.FigureCanvas (encompasses the area onto which the figure is drawn.
+matplotlib.backend_bases.Renderer (draws on FigureCanvas)
+matplotlib.backend_bases.Event (handles keyboard strokes and mouse clicks) 
+
+Area plot
+uses: Tracking stock market performance
+display population demographics
+display the distriution of resources
+
+an area plot depicts cumulated totals using numbers or percentages over time. 
+The process of creating an area plot involves importing Matplotlib and calling the plot function on the dataframe with kind parameter assigned as area. 
+Area plots provide a visually appealing and intuitive way to showcase the relationship and proportion of multiple variables in a single chart.
+
+
+Folium
+Folium is a powerful data visualization library in Python that was built primarily to help people visualize geospatial data. 
+With Folium, you can create a map of any location in the world using latitude and longitude values. 
+You can also create a map and superimpose markers and clusters on top of the map for interesting visualizations, 
+you can also create maps of different styles, 
+such as street level maps, stamen maps, and a couple of others.
+
+Chloropleth Map
+A choropleth map is a thematic map in which areas are shaded or patterned in proportion to the measurement of the statistical variable. 
+When creating a choropleth map, Folium requires a GeoJSON file that includes geospatial data of the region. 
+The Mapbox Bright Tileset displays the name of every country when used on a map. 
