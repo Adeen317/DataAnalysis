@@ -90,9 +90,9 @@ plt.show()
 rec_data = df[df['Recession'] == 1]
 plt.scatter(recession_data['Consumer_Confidence'], recession_data['Automobile_Sales'])
     
-plt.xlabel('.....')
-plt.ylabel('.......')
-plt.title('..........')
+plt.xlabel('Price')
+plt.ylabel('Sales Volume')
+plt.title('Correlation between Average Vehicle Price and Sales during Recessions')
 plt.show()
 
 
