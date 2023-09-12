@@ -59,7 +59,7 @@ To access all files click the header below:
 ###### >It also provides methods to find R-Square Value.
 
 ### Data Visualization with Python
-In this section we have covered data visualzation techniques through python programming language. In order to perform visualzation in python first we need to download several libraries which are as follows:
+In this section we have covered data visualzation techniques through python programming language. In order to perform visualzation on the dataset of (Automobile Sales from 1984-2023) in python first we need to download several libraries which are as follows:
 ##### 1. pandas
 ##### 2. matplotlib
 ##### 3. numpy
