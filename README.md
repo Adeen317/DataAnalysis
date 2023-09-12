@@ -70,5 +70,24 @@ In this section we have covered data visualzation techniques through python prog
 To access all files click the header below:
 - [Data Visualization with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Visualization%20with%20Python)
 
+###### It consist several visualization techniques using different libraries to help you in making accurate bussiness strategic decisions. 
+###### First of all, we use matplotlib for plotting various types of charts and plots. To access click the header below:
+- [Matplotlib](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Charts.py)
+###### Then, we will use seaborn library for plotting charts and plots. It also uses subplotting to display multiple plots together.
+- [Seaborn](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Subplot%20%26%20Seaborn.py)
+###### PLotly library is also used for creating dashboards to analyze data.
+- [PLotly](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Plotly.py)
+###### Folium is used to for geospatial data visuaization it helps in building interactive and customizable maps.
+![Web capture_14-9-2023_22243_](https://github.com/Adeen317/DataAnalysis/assets/112985225/64177092-5d29-40c4-b574-8eb3fea46ec2)
+- [Folium](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Folium.py)
+
+###### Dash is used for creating interactive web-application which consists of multiple plots and charts to make correct decisions based on the analysis provided.
+![RecessionReportGraphs](https://github.com/Adeen317/DataAnalysis/assets/112985225/b1a48855-6f98-4404-9c28-8bc7458120b3)
+- [Dash](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Dash_Final.py)
+
+
+
+
+
 ## TOOLCHAIN:
 - [Python idle 3.8](https://www.python.org/downloads/release/python-3810/)
