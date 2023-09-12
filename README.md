@@ -78,13 +78,14 @@ To access all files click the header below:
 ###### PLotly library is also used for creating dashboards to analyze data.
 - [PLotly](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Plotly.py)
 ###### Folium is used to for geospatial data visuaization it helps in building interactive and customizable maps.
-![Web capture_14-9-2023_22243_](https://github.com/Adeen317/DataAnalysis/assets/112985225/64177092-5d29-40c4-b574-8eb3fea46ec2)
 - [Folium](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Folium.py)
 
+![Web capture_14-9-2023_22243_](https://github.com/Adeen317/DataAnalysis/assets/112985225/64177092-5d29-40c4-b574-8eb3fea46ec2)
+
 ###### Dash is used for creating interactive web-application which consists of multiple plots and charts to make correct decisions based on the analysis provided.
-![RecessionReportGraphs](https://github.com/Adeen317/DataAnalysis/assets/112985225/b1a48855-6f98-4404-9c28-8bc7458120b3)
 - [Dash](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Dash_Final.py)
 
+![RecessionReportGraphs](https://github.com/Adeen317/DataAnalysis/assets/112985225/b1a48855-6f98-4404-9c28-8bc7458120b3)
 
 
 
