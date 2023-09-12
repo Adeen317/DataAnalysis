@@ -1,4 +1,4 @@
-# DataAnalysis
+# DataAnalysis📈
 Consists of complete data analysis techniques.
 ## Table Of Contents:
 - [Data Analysis with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Analysis%20wth%20Python)
