@@ -70,7 +70,7 @@ In this section we have covered data visualzation techniques through python prog
 To access all files click the header below:
 - [Data Visualization with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Visualization%20with%20Python)
 
-###### It consist several visualization techniques using different libraries to help you in making accurate bussiness strategic decisions. 
+##### It consist several visualization techniques using different libraries to help you in making accurate bussiness strategic decisions. 
 - [Matplotlib](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Charts.py)
 ###### First of all, we use matplotlib for plotting various types of charts and plots.
 - [Seaborn](https://github.com/Adeen317/DataAnalysis/blob/main/Data%20Visualization%20with%20Python/Codes/Subplot%20%26%20Seaborn.py)
