@@ -1,5 +1,9 @@
 # DataAnalysis
 Consists of complete data analysis techniques.
+## Table Of Contents:
+- [Data Analysis with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Analysis%20wth%20Python)
+- [Data Visualzation with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Visualization%20with%20Python)
+
 ### Data Analysis with Python
 In this section we have covered data analysis techniques through python programming language. In order to perform analysis in python first we need to download several libraries as follows.
 ##### 1. pandas
@@ -51,6 +55,18 @@ To access all files click the header below:
 ###### >It also performs ridge regression between two components.
 ###### >It performs grid search according to the parameters and ridge model assigned.
 ###### >It also provides methods to find R-Square Value.
+
+### Data Visualization with Python
+In this section we have covered data visualzation techniques through python programming language. In order to perform visualzation in python first we need to download several libraries which are as follows:
+##### 1. pandas
+##### 2. matplotlib
+##### 3. numpy
+##### 4. Plotly
+##### 5. Dash
+##### 6. Folium
+##### 7. Seaborn
+To access all files click the header below:
+- [Data Visualzation with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Visualization%20with%20Python)
 
 ## TOOLCHAIN:
 - [Python idle 3.8](https://www.python.org/downloads/release/python-3810/)
