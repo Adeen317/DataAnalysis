@@ -1,0 +1,7 @@
+use Chicago;
+#select * from Chicago_Public_Schools;
+#select * from Chicago_Census_Data;
+select * from Chicago_Crime_Data;
+#select community_area_number,count(*) as number_of_crimes from Chicago_Crime_Data group by community_area_number order by number_of_crimes desc limit 1;
+#select COMMUNITY_AREA_NAME from Chicago_Census_Data where COMMUNITY_AREA_NUMBER=(select COMMUNITY_AREA_NUMBER from Chicago_Census_Data group by COMMUNITY_AREA_NUMBER order by count(COMMUNITY_AREA_NUMBER) desc limit 1) ;  
+#select 'ELementry,Middle, or High School' as Schools_Type,AVG(SAFETY_SCORE) as Average_Safety_Score from Chicago_Public_Schools group by 'ELementry,Middle, or High School';
