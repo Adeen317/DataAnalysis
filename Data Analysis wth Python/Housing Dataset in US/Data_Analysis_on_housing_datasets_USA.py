@@ -16,32 +16,32 @@ url = 'https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDev
 
 df = pd.read_csv(url)
 
-#Q1 Datatypes of each Column
+#Datatypes of each Column
 print(df.dtypes)
 
 
-#Q2 Dropping Column "id" and "Unnamed: 0"
+#Dropping Column "id" and "Unnamed: 0"
 drop=df.drop(['Unnamed: 0','id'], axis=1,inplace=True)
 print(df.describe())
 
 
-#Q3 Count Unique Floor value
+#Count Unique Floor value
 count=df["floors"].value_counts()
 print("Unique Floor",count)
 a=count.to_frame()
 print(a)
 
 
-#Q4 Boxplot
+#Boxplot
 sns.boxplot(x="waterfront",y="price", data=df)
 plt.show()
 
-#Q5 Regplot
+#Regplot
 sns.regplot(x="sqft_above",y="price", data=df)
 plt.ylim(0,)
 plt.show()
 
-#Q6 Linear regression and r-square value
+#Linear regression and r-square value
 lm=LinearRegression()
 X = df[['sqft_living']]
 Y = df['price']
@@ -53,7 +53,7 @@ print("R-Squared",R_sq)
 
 
 
-#Q7 Linear Regression
+#Linear Regression
 from sklearn.linear_model import LinearRegression
 
 lm=LinearRegression()
@@ -70,7 +70,7 @@ R_sq=lm.score(B,Y)
 print("R-Squared",R_sq)
 
 
-#Q8 Pipeline
+#Pipeline
 miss=df.dropna(subset=["bedrooms"],axis=0,inplace=True)
 miss1=df.dropna(subset=["bathrooms"],axis=0,inplace=True)
 
@@ -84,7 +84,7 @@ R_sq=pipe.score(B,Y)
 print("R-Squared",R_sq)
 
 
-#Q9 Ridge Regression
+#Ridge Regression
 miss=df.dropna(subset=["bedrooms"],axis=0,inplace=True)
 miss1=df.dropna(subset=["bathrooms"],axis=0,inplace=True)
 
@@ -99,7 +99,7 @@ print("Ridge Regression",rig)
 print("R-Squared value of Test Data is",r_square)
 
 
-#Q10 Polynomial transform and ridge regression
+#Polynomial transform and ridge regression
 miss=df.dropna(subset=["bedrooms"],axis=0,inplace=True)
 miss1=df.dropna(subset=["bathrooms"],axis=0,inplace=True)
 
