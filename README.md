@@ -4,6 +4,8 @@ Consists of complete data analysis techniques.
 - [Data Analysis with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Analysis%20wth%20Python)
 - [Data Visualization with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Data%20Visualization%20with%20Python)
 - [Database & SQL with Python](https://github.com/Adeen317/DataAnalysis/tree/main/Databases%20%26%20SQL%20for%20Data%20Science)
+- [Netflix Subscription Forecast Prediction](https://github.com/Adeen317/Netflix-Subscription-Forecasting)
+- [Stock Market Prediction](https://github.com/Adeen317/Stock-Market-Prediction)
 
 ### Data Analysis with Python
 In this section we have covered data analysis techniques through python programming language. In order to perform analysis in python first we need to download several libraries as follows.
